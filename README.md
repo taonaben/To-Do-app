@@ -1,8 +1,10 @@
-# To-Do
+# Flutter Todo App
 
-My new Flutter project.
+A simple Todo application built with Flutter to help you manage your tasks efficiently.
 
-## Getting Started
+## Features
 
-This is just a simple To-Do application that allows the user to iput tasks and are able to mark of they have done the task.
-The user can also delete a task 
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Filter tasks (All, Completed, Incomplete)
+- Persistent storage of tasks
